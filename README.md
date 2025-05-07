@@ -1,17 +1,28 @@
-# Car_Rental_system
-car Rental system Develped with Python using OOP(Object-Oriented-programming) concepts.
+# Car Rental system
+The Car Rental System python based  project is designed to manage car rentals operations  efficiently. It utilizes Object-Oriented Principles to streamline rental operations. 
+
+# Overview
+- Simplify the car rental process.
+- Provide a user-friendly interface for managing car rentals.
+- Maintain accurate records of rentals and customer information.
+  
+# OOP Concepts
+  - Classes/Inheritance
+  - File Handilg
+  - Polymorphism
+  - Exception Handling
+
 # Features
- **Vehicle Management**
+  **Vehicle Management**
   - Add/remove vehicles from inventory
   - Track available vs. rented cars
   - Different vehicle categories (Sedan, SUV, Luxury)
 
- **Customer Operations**
-  - Rent and return vehicles
-  - Generate detailed invoices
-  - Maintain customer records
+  **Rental Operations**
+  - Rent/Return System : Complete rental cycle management
+  - Automated Invoicing : Detailed customer invoices generation
+  - Customer Records : Maintain comprehensive rental history
 
- **Reporting**
-  - View available/rented cars
-  - Display transaction history
-  - Calculate total revenue
+  **Financial Tracking**
+  - Billing System : Accurate rental cost calculations
+  - Revenue Reports : Total earnings computation
